@@ -28,7 +28,7 @@ export class FaceSnapsService {
         {
             id: 3,
             title: 'Gamora',
-            description: 'A dream...',
+            description: 'Fatal girl',
             imageUrl: "https://geekalition.com/wp-content/uploads/2022/12/Gamora-Gardiens-de-la-Galaxie-Vol.-3-1024x576.webp",
             createdDate: new Date(),
             snaps: 0,
